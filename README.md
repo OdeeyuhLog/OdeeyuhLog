@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%61dafb&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Nikko+Santillan's+Github!)](https://git.io/typing-svg)
 
-<div style="text-align: center;">![] (https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Centered Image">
+</p>
 I am a passionate and laid back developer, currently focusing on web application development!
 
 ## 🚀 About Me
